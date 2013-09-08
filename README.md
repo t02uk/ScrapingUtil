@@ -1,4 +1,4 @@
 ScrapingUtil
 ============
 
-ScalaでWebスクライピングする時用
+ScalaでWebスクライピングする時用のライブラリ
