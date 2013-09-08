@@ -1,0 +1,4 @@
+ScrapingUtil
+============
+
+ScalaでWebスクライピングする時用
